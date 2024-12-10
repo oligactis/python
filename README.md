@@ -1,4 +1,4 @@
-# Hey This Is Our Academic Team Work Project
+# Hey this is our academic team work project
 ## Team Introduction and Project Overview
 
 ### About Us
@@ -25,10 +25,10 @@ This project aims to leverage facial emotion detection technology to revolutioni
 ### How to download this file
 - Feel free to download or clone this project.
 - Download dataset from "download file.txt"
-- keras with tensorflow as backend
-- OpenCV
-- numpy
-- pillow
+- keras with tensorflow as backend (library)
+- OpenCV (library)
+- numpy (library)
+- pillow (library)
 
 ### Why we select this project
 Through our project, we sought to bridge this gap by providing educators with real-time insights into students' emotions. Our motivation stems from the belief that understanding emotional cues can foster a more interactive and supportive educational environment, improving learning outcomes.
