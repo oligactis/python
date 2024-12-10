@@ -3,7 +3,7 @@
 ## About Us
 We are a team of three dedicated students from the Department of Computer and Information System (CIS) at Daffodil International University. Bellow are our details:
 
-### Technology stack    
+### Team Members    
 - Md. Tashin Islam Tasin
 - ID: 221-16-601
 - Md. Mothaher Hossain
