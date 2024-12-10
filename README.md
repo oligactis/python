@@ -1,9 +1,9 @@
 # Team Introduction and Project Overview
 
-## `About Us`
+## About Us
 We are a team of three dedicated students from the Department of Computer and Information System (CIS) at Daffodil International University. Bellow are our details:
 
-    ### `Technology stack`
+### Technology stack    
 - Md. Tashin Islam Tasin
 - ID: 221-16-601
 - Md. Mothaher Hossain
@@ -12,16 +12,6 @@ We are a team of three dedicated students from the Department of Computer and In
 - ID: 221-16-607
 
 
-    ### `Technology stack`
-
-- HTML
-- Tailwind CSS
-- ReactJS
-- React Slick
-- React Router DOM
-- Firebase Auth
-- NodeJS
-- mongoDB
 
 
 Our academic journey has been focused on exploring cutting-edge technologies, and this project marks a significant milestone in our studies. As part of our Artificial Intelligence (AI) course, we embarked on a mission to create a meaningful and impactful AI system that could address real-world challenges
